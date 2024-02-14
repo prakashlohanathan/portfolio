@@ -14,7 +14,7 @@ const Contact = () => {
        <div className="row mt-5 text-center">
        <div className="col-md-4">
         <img src={mail} alt="mail" className="mail mb-2" />
-        <h5 className=" fw-light d-inline ms-2">prakash2k2mech@gmail.com </h5>
+        <h5 className=" fw-light d-inline ms-2">prakashlohanathan@gmail.com </h5>
        </div>
        <div className="col-md-4">
         <img src={phone} alt="mail" className="mail mb-2" />
