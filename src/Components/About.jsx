@@ -25,7 +25,7 @@ const About = () => {
           </p>
           <a
             rel="noreferrer"
-            href="https://drive.google.com/file/d/1Fk6NP1YjZ7AlDqVWgZUEG9ytHFPiMvz0/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1Fk6NP1YjZ7AlDqVWgZUEG9ytHFPiMvz0/view?usp=sharing"
             target="_blank"
           >
             <button id="resume" className="resume btn fw-bold fs-6">My Resume</button>

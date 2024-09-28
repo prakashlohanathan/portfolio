@@ -20,6 +20,7 @@ const Skills = () => {
             <li>Bootstrap 5</li>
             <li>Javascript</li>
             <li>React</li>
+            <li>Python</li>
           </ul>
         </div>
 
