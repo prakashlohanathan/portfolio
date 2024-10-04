@@ -40,7 +40,7 @@ const About = () => {
           </a>
           <a
             rel="noreferrer"
-            href="https://www.linkedin.com/in/prakash-lohanathan-1796b949/"
+            href="https://www.linkedin.com/in/prakash-lohanathan"
             target="_blank"
             className="ms-4"
           >
