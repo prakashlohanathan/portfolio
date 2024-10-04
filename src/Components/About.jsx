@@ -48,7 +48,7 @@ const About = () => {
           </a>
           <a
             rel="noreferrer"
-            href="https://drive.google.com/file/d/1tjzhW3Upd-MjhznQowa4IdQrDdYaFPJt/view?usp=sharing"
+            href="https://drive.google.com/file/d/1XTOB9qE_fNgWofIa6B8qC2q4xklYuol2/view?usp=sharing"
             target="_blank"
             className="ms-4"
           >
